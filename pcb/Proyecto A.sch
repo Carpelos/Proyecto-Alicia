@@ -2979,10 +2979,8 @@ Wire Wire Line
 	17600 8750 18000 8750
 Wire Wire Line
 	18600 8750 19000 8750
-Text GLabel 13700 7750 0    50   Input ~ 0
+Text GLabel 13250 7750 0    50   Input ~ 0
 UNDERGLOW
-Wire Wire Line
-	13700 7750 14000 7750
 NoConn ~ 19600 8750
 $Comp
 L power:+5V #PWR0114
@@ -3560,4 +3558,19 @@ Wire Wire Line
 	17300 10850 16350 10850
 Connection ~ 17300 11250
 Connection ~ 16350 10850
+$Comp
+L Device:R_Small R11
+U 1 1 5F167937
+P 13500 7750
+F 0 "R11" V 13304 7750 50  0000 C CNN
+F 1 "500 ohm" V 13395 7750 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 13500 7750 50  0001 C CNN
+F 3 "~" H 13500 7750 50  0001 C CNN
+	1    13500 7750
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	13250 7750 13400 7750
+Wire Wire Line
+	13600 7750 14000 7750
 $EndSCHEMATC
