@@ -22,7 +22,7 @@ col0
 Wire Wire Line
 	1800 650  1800 950 
 $Comp
-L MX_Alps_Hybrid:MX-NoLED Esc1
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid Esc1
 U 1 1 00000001
 P 1400 1000
 F 0 "Esc1" H 1400 1233 60  0000 C CNN
@@ -55,7 +55,7 @@ col1
 Wire Wire Line
 	2800 650  2800 950 
 $Comp
-L MX_Alps_Hybrid:MX-NoLED KK0
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid KK0
 U 1 1 00000011
 P 2400 1000
 F 0 "KK0" H 2400 1233 60  0000 C CNN
@@ -88,7 +88,7 @@ col2
 Wire Wire Line
 	3800 650  3800 950 
 $Comp
-L MX_Alps_Hybrid:MX-NoLED K1
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid K1
 U 1 1 00000021
 P 3400 1000
 F 0 "K1" H 3400 1233 60  0000 C CNN
@@ -121,7 +121,7 @@ col3
 Wire Wire Line
 	4800 650  4800 950 
 $Comp
-L MX_Alps_Hybrid:MX-NoLED K2
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid K2
 U 1 1 00000031
 P 4400 1000
 F 0 "K2" H 4400 1233 60  0000 C CNN
@@ -154,7 +154,7 @@ col4
 Wire Wire Line
 	5800 650  5800 950 
 $Comp
-L MX_Alps_Hybrid:MX-NoLED K3
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid K3
 U 1 1 00000041
 P 5400 1000
 F 0 "K3" H 5400 1233 60  0000 C CNN
@@ -187,7 +187,7 @@ col5
 Wire Wire Line
 	6800 650  6800 950 
 $Comp
-L MX_Alps_Hybrid:MX-NoLED K4
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid K4
 U 1 1 00000051
 P 6400 1000
 F 0 "K4" H 6400 1233 60  0000 C CNN
@@ -220,7 +220,7 @@ col6
 Wire Wire Line
 	7800 650  7800 950 
 $Comp
-L MX_Alps_Hybrid:MX-NoLED k5
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid k5
 U 1 1 00000061
 P 7400 1000
 F 0 "k5" H 7400 1233 60  0000 C CNN
@@ -253,7 +253,7 @@ col7
 Wire Wire Line
 	8800 650  8800 950 
 $Comp
-L MX_Alps_Hybrid:MX-NoLED K6
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid K6
 U 1 1 00000071
 P 8400 1000
 F 0 "K6" H 8400 1233 60  0000 C CNN
@@ -286,7 +286,7 @@ col8
 Wire Wire Line
 	9800 650  9800 950 
 $Comp
-L MX_Alps_Hybrid:MX-NoLED K7
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid K7
 U 1 1 00000081
 P 9400 1000
 F 0 "K7" H 9400 1233 60  0000 C CNN
@@ -319,7 +319,7 @@ col9
 Wire Wire Line
 	10800 650  10800 950 
 $Comp
-L MX_Alps_Hybrid:MX-NoLED K8
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid K8
 U 1 1 00000091
 P 10400 1000
 F 0 "K8" H 10400 1233 60  0000 C CNN
@@ -352,7 +352,7 @@ col10
 Wire Wire Line
 	11800 650  11800 950 
 $Comp
-L MX_Alps_Hybrid:MX-NoLED K9
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid K9
 U 1 1 00000101
 P 11400 1000
 F 0 "K9" H 11400 1233 60  0000 C CNN
@@ -385,7 +385,7 @@ col11
 Wire Wire Line
 	12800 650  12800 950 
 $Comp
-L MX_Alps_Hybrid:MX-NoLED K10
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid K10
 U 1 1 00000111
 P 12400 1000
 F 0 "K10" H 12400 1233 60  0000 C CNN
@@ -418,7 +418,7 @@ col12
 Wire Wire Line
 	13800 650  13800 950 
 $Comp
-L MX_Alps_Hybrid:MX-NoLED _-1
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid _-1
 U 1 1 00000121
 P 13400 1000
 F 0 "_-1" H 13400 1233 60  0000 C CNN
@@ -451,7 +451,7 @@ col13
 Wire Wire Line
 	14800 650  14800 950 
 $Comp
-L MX_Alps_Hybrid:MX-NoLED =+1
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid =+1
 U 1 1 00000131
 P 14400 1000
 F 0 "=+1" H 14400 1233 60  0000 C CNN
@@ -486,7 +486,7 @@ row1
 Wire Wire Line
 	900  2400 1350 2400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED PGUP1
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid PGUP1
 U 1 1 00000151
 P 1400 2000
 F 0 "PGUP1" H 1400 2233 60  0000 C CNN
@@ -515,7 +515,7 @@ Wire Wire Line
 Connection ~ 1800 1950
 Connection ~ 1350 2400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED TAB1
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid TAB1
 U 1 1 00000161
 P 2400 2000
 F 0 "TAB1" H 2400 2233 60  0000 C CNN
@@ -544,7 +544,7 @@ Wire Wire Line
 Connection ~ 2800 1950
 Connection ~ 2350 2400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED Q1
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid Q1
 U 1 1 00000171
 P 3400 2000
 F 0 "Q1" H 3400 2233 60  0000 C CNN
@@ -573,7 +573,7 @@ Wire Wire Line
 Connection ~ 3800 1950
 Connection ~ 3350 2400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED W1
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid W1
 U 1 1 00000181
 P 4400 2000
 F 0 "W1" H 4400 2233 60  0000 C CNN
@@ -602,7 +602,7 @@ Wire Wire Line
 Connection ~ 4800 1950
 Connection ~ 4350 2400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED E1
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid E1
 U 1 1 00000191
 P 5400 2000
 F 0 "E1" H 5400 2233 60  0000 C CNN
@@ -631,7 +631,7 @@ Wire Wire Line
 Connection ~ 5800 1950
 Connection ~ 5350 2400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED R10
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid R10
 U 1 1 00000201
 P 6400 2000
 F 0 "R10" H 6400 2233 60  0000 C CNN
@@ -660,7 +660,7 @@ Wire Wire Line
 Connection ~ 6800 1950
 Connection ~ 6350 2400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED T1
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid T1
 U 1 1 00000211
 P 7400 2000
 F 0 "T1" H 7400 2233 60  0000 C CNN
@@ -689,7 +689,7 @@ Wire Wire Line
 Connection ~ 7800 1950
 Connection ~ 7350 2400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED Y2
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid Y2
 U 1 1 00000221
 P 8400 2000
 F 0 "Y2" H 8400 2233 60  0000 C CNN
@@ -718,7 +718,7 @@ Wire Wire Line
 Connection ~ 8800 1950
 Connection ~ 8350 2400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED U2
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid U2
 U 1 1 00000231
 P 9400 2000
 F 0 "U2" H 9400 2233 60  0000 C CNN
@@ -747,7 +747,7 @@ Wire Wire Line
 Connection ~ 9800 1950
 Connection ~ 9350 2400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED I1
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid I1
 U 1 1 00000241
 P 10400 2000
 F 0 "I1" H 10400 2233 60  0000 C CNN
@@ -776,7 +776,7 @@ Wire Wire Line
 Connection ~ 10800 1950
 Connection ~ 10350 2400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED O1
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid O1
 U 1 1 00000251
 P 11400 2000
 F 0 "O1" H 11400 2233 60  0000 C CNN
@@ -805,7 +805,7 @@ Wire Wire Line
 Connection ~ 11800 1950
 Connection ~ 11350 2400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED P1
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid P1
 U 1 1 00000261
 P 12400 2000
 F 0 "P1" H 12400 2233 60  0000 C CNN
@@ -834,7 +834,7 @@ Wire Wire Line
 Connection ~ 12800 1950
 Connection ~ 12350 2400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED [1
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid [1
 U 1 1 00000271
 P 13400 2000
 F 0 "[1" H 13400 2233 60  0000 C CNN
@@ -863,7 +863,7 @@ Wire Wire Line
 Connection ~ 13800 1950
 Connection ~ 13350 2400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED ]1
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid ]1
 U 1 1 00000281
 P 14400 2000
 F 0 "]1" H 14400 2233 60  0000 C CNN
@@ -891,7 +891,7 @@ Wire Wire Line
 	14350 2150 14350 2200
 Connection ~ 14800 1950
 $Comp
-L MX_Alps_Hybrid:MX-NoLED K\1
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid K\1
 U 1 1 00000291
 P 15400 2000
 F 0 "K\\1" H 15400 2233 60  0000 C CNN
@@ -922,7 +922,7 @@ row2
 Wire Wire Line
 	900  3400 1350 3400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED PGDN1
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid PGDN1
 U 1 1 00000301
 P 1400 3000
 F 0 "PGDN1" H 1400 3233 60  0000 C CNN
@@ -950,7 +950,7 @@ Wire Wire Line
 	1350 3150 1350 3200
 Connection ~ 1350 3400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED CAPS1
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid CAPS1
 U 1 1 00000311
 P 2400 3000
 F 0 "CAPS1" H 2400 3233 60  0000 C CNN
@@ -977,7 +977,7 @@ Wire Wire Line
 Connection ~ 2800 2950
 Connection ~ 2350 3400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED A1
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid A1
 U 1 1 00000321
 P 3400 3000
 F 0 "A1" H 3400 3233 60  0000 C CNN
@@ -1006,7 +1006,7 @@ Wire Wire Line
 Connection ~ 3800 2950
 Connection ~ 3350 3400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED S1
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid S1
 U 1 1 00000331
 P 4400 3000
 F 0 "S1" H 4400 3233 60  0000 C CNN
@@ -1035,7 +1035,7 @@ Wire Wire Line
 Connection ~ 4800 2950
 Connection ~ 4350 3400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED D18
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid D18
 U 1 1 00000341
 P 5400 3000
 F 0 "D18" H 5400 3233 60  0000 C CNN
@@ -1082,7 +1082,7 @@ Wire Wire Line
 Connection ~ 6800 2950
 Connection ~ 6350 3400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED G1
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid G1
 U 1 1 00000361
 P 7400 3000
 F 0 "G1" H 7400 3233 60  0000 C CNN
@@ -1111,7 +1111,7 @@ Wire Wire Line
 Connection ~ 7800 2950
 Connection ~ 7350 3400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED H1
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid H1
 U 1 1 00000371
 P 8400 3000
 F 0 "H1" H 8400 3233 60  0000 C CNN
@@ -1140,7 +1140,7 @@ Wire Wire Line
 Connection ~ 8800 2950
 Connection ~ 8350 3400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED J1
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid J1
 U 1 1 00000381
 P 9400 3000
 F 0 "J1" H 9400 3233 60  0000 C CNN
@@ -1169,7 +1169,7 @@ Wire Wire Line
 Connection ~ 9800 2950
 Connection ~ 9350 3400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED K11
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid K11
 U 1 1 00000391
 P 10400 3000
 F 0 "K11" H 10400 3233 60  0000 C CNN
@@ -1198,7 +1198,7 @@ Wire Wire Line
 Connection ~ 10800 2950
 Connection ~ 10350 3400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED L1
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid L1
 U 1 1 00000401
 P 11400 3000
 F 0 "L1" H 11400 3233 60  0000 C CNN
@@ -1227,7 +1227,7 @@ Wire Wire Line
 Connection ~ 11800 2950
 Connection ~ 11350 3400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED ;1
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid ;1
 U 1 1 00000411
 P 12400 3000
 F 0 ";1" H 12400 3233 60  0000 C CNN
@@ -1256,7 +1256,7 @@ Wire Wire Line
 Connection ~ 12800 2950
 Connection ~ 12350 3400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED '1
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid '1
 U 1 1 00000421
 P 13400 3000
 F 0 "'1" H 13400 3233 60  0000 C CNN
@@ -1285,7 +1285,7 @@ Wire Wire Line
 Connection ~ 13800 2950
 Connection ~ 13350 3400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED RETURN1
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid RETURN1
 U 1 1 00000431
 P 14400 3000
 F 0 "RETURN1" H 14400 3233 60  0000 C CNN
@@ -1315,7 +1315,7 @@ Connection ~ 14800 2950
 Text GLabel 900  4400 0    50   Input ~ 0
 row3
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SHIFT1
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid SHIFT1
 U 1 1 00000451
 P 2400 4000
 F 0 "SHIFT1" H 2400 4233 60  0000 C CNN
@@ -1344,7 +1344,7 @@ Wire Wire Line
 Connection ~ 2800 3950
 Connection ~ 2350 4400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED Z1
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid Z1
 U 1 1 00000461
 P 3400 4000
 F 0 "Z1" H 3400 4233 60  0000 C CNN
@@ -1372,7 +1372,7 @@ Wire Wire Line
 	3350 4150 3350 4200
 Connection ~ 3350 4400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED X1
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid X1
 U 1 1 00000471
 P 4400 4000
 F 0 "X1" H 4400 4233 60  0000 C CNN
@@ -1401,7 +1401,7 @@ Wire Wire Line
 Connection ~ 4800 3950
 Connection ~ 4350 4400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED C8
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid C8
 U 1 1 00000481
 P 5400 4000
 F 0 "C8" H 5400 4233 60  0000 C CNN
@@ -1430,7 +1430,7 @@ Wire Wire Line
 Connection ~ 5800 3950
 Connection ~ 5350 4400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED V1
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid V1
 U 1 1 00000491
 P 6400 4000
 F 0 "V1" H 6400 4233 60  0000 C CNN
@@ -1458,7 +1458,7 @@ Wire Wire Line
 	6350 4150 6350 4200
 Connection ~ 6350 4400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED B1
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid B1
 U 1 1 00000501
 P 7400 4000
 F 0 "B1" H 7400 4233 60  0000 C CNN
@@ -1487,7 +1487,7 @@ Wire Wire Line
 Connection ~ 7800 3950
 Connection ~ 7350 4400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED B2
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid B2
 U 1 1 00000511
 P 8400 4000
 F 0 "B2" H 8400 4233 60  0000 C CNN
@@ -1515,7 +1515,7 @@ Wire Wire Line
 	8350 4150 8350 4200
 Connection ~ 8350 4400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED N1
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid N1
 U 1 1 00000521
 P 9400 4000
 F 0 "N1" H 9400 4233 60  0000 C CNN
@@ -1544,7 +1544,7 @@ Wire Wire Line
 Connection ~ 9800 3950
 Connection ~ 9350 4400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED M1
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid M1
 U 1 1 00000531
 P 10400 4000
 F 0 "M1" H 10400 4233 60  0000 C CNN
@@ -1572,7 +1572,7 @@ Wire Wire Line
 	10350 4150 10350 4200
 Connection ~ 10350 4400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED ,<1
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid ,<1
 U 1 1 00000541
 P 11400 4000
 F 0 ",<1" H 11400 4233 60  0000 C CNN
@@ -1601,7 +1601,7 @@ Wire Wire Line
 Connection ~ 11800 3950
 Connection ~ 11350 4400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED .>1
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid .>1
 U 1 1 00000551
 P 12400 4000
 F 0 ".>1" H 12400 4233 60  0000 C CNN
@@ -1629,7 +1629,7 @@ Wire Wire Line
 	12350 4150 12350 4200
 Connection ~ 12350 4400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED /1
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid /1
 U 1 1 00000561
 P 13400 4000
 F 0 "/1" H 13400 4233 60  0000 C CNN
@@ -1658,7 +1658,7 @@ Wire Wire Line
 Connection ~ 13800 3950
 Connection ~ 13350 4400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED RSHIFT1
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid RSHIFT1
 U 1 1 00000571
 P 14400 4000
 F 0 "RSHIFT1" H 14400 4233 60  0000 C CNN
@@ -1688,7 +1688,7 @@ Connection ~ 14800 3950
 Text GLabel 900  5400 0    50   Input ~ 0
 row4
 $Comp
-L MX_Alps_Hybrid:MX-NoLED CTRL1
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid CTRL1
 U 1 1 00000581
 P 2400 5000
 F 0 "CTRL1" H 2400 5233 60  0000 C CNN
@@ -1716,7 +1716,7 @@ Wire Wire Line
 	2350 5150 2350 5200
 Connection ~ 2350 5400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED ALT1
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid ALT1
 U 1 1 00000591
 P 4400 5000
 F 0 "ALT1" H 4400 5233 60  0000 C CNN
@@ -1744,7 +1744,7 @@ Wire Wire Line
 	4350 5150 4350 5200
 Connection ~ 4350 5400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SPCE2
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid SPCE2
 U 1 1 00000601
 P 5400 5000
 F 0 "SPCE2" H 5400 5233 60  0000 C CNN
@@ -1770,7 +1770,7 @@ Wire Wire Line
 	5350 5150 5350 5200
 Connection ~ 5350 5400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED FUNC2
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid FUNC2
 U 1 1 00000611
 P 7400 5000
 F 0 "FUNC2" H 7400 5233 60  0000 C CNN
@@ -1798,7 +1798,7 @@ Wire Wire Line
 	7350 5150 7350 5200
 Connection ~ 7350 5400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED space2
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid space2
 U 1 1 00000621
 P 9400 5000
 F 0 "space2" H 9400 5233 60  0000 C CNN
@@ -1826,7 +1826,7 @@ Wire Wire Line
 	9350 5150 9350 5200
 Connection ~ 9350 5400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED RALT1
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid RALT1
 U 1 1 00000631
 P 11400 5000
 F 0 "RALT1" H 11400 5233 60  0000 C CNN
@@ -1854,7 +1854,7 @@ Wire Wire Line
 	11350 5150 11350 5200
 Connection ~ 11350 5400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED RCTL1
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid RCTL1
 U 1 1 00000641
 P 13400 5000
 F 0 "RCTL1" H 13400 5233 60  0000 C CNN
@@ -1882,7 +1882,7 @@ Wire Wire Line
 	13350 5150 13350 5200
 Connection ~ 13350 5400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED FUNCT1
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid FUNCT1
 U 1 1 00000651
 P 14400 5000
 F 0 "FUNCT1" H 14400 5233 60  0000 C CNN
@@ -2119,7 +2119,7 @@ Wire Wire Line
 Wire Wire Line
 	14800 950  14800 1950
 $Comp
-L MX_Alps_Hybrid:MX-NoLED CAPS2
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid CAPS2
 U 1 1 5EF1A2AA
 P 2000 2750
 F 0 "CAPS2" H 2300 2600 60  0000 R CNN
@@ -2134,7 +2134,7 @@ Wire Wire Line
 Wire Wire Line
 	1350 3400 2350 3400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED lgui1
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid lgui1
 U 1 1 5EF9E706
 P 5150 4700
 F 0 "lgui1" H 5300 4850 60  0000 R CNN
@@ -2159,7 +2159,7 @@ Connection ~ 5700 4950
 Wire Wire Line
 	5700 4950 5800 4950
 $Comp
-L MX_Alps_Hybrid:MX-NoLED FUNC1
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid FUNC1
 U 1 1 5F012DB5
 P 7100 4700
 F 0 "FUNC1" H 7133 4881 60  0000 C CNN
@@ -2209,7 +2209,7 @@ U 1 1 5F4395C8
 P 1300 12100
 F 0 "C1" H 1392 12146 50  0000 L CNN
 F 1 "0.1 uf" H 1392 12055 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 1300 12100 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 1300 12100 50  0001 C CNN
 F 3 "~" H 1300 12100 50  0001 C CNN
 	1    1300 12100
 	1    0    0    -1  
@@ -2231,7 +2231,7 @@ U 1 1 5F4F1917
 P 1700 12100
 F 0 "C4" H 1792 12146 50  0000 L CNN
 F 1 "0.1 uf" H 1792 12055 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 1700 12100 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 1700 12100 50  0001 C CNN
 F 3 "~" H 1700 12100 50  0001 C CNN
 	1    1700 12100
 	1    0    0    -1  
@@ -2242,7 +2242,7 @@ U 1 1 5F50B1C9
 P 2100 12100
 F 0 "C5" H 2192 12146 50  0000 L CNN
 F 1 "0.1 uf" H 2192 12055 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 2100 12100 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 2100 12100 50  0001 C CNN
 F 3 "~" H 2100 12100 50  0001 C CNN
 	1    2100 12100
 	1    0    0    -1  
@@ -2252,8 +2252,8 @@ L Device:C_Small C7
 U 1 1 5F524892
 P 2500 12100
 F 0 "C7" H 2592 12146 50  0000 L CNN
-F 1 "100uf" H 2592 12055 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 2500 12100 50  0001 C CNN
+F 1 "10uf" H 2592 12055 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 2500 12100 50  0001 C CNN
 F 3 "~" H 2500 12100 50  0001 C CNN
 	1    2500 12100
 	1    0    0    -1  
@@ -2353,7 +2353,7 @@ U 1 1 5F749B5F
 P 2500 11200
 F 0 "C6" H 2729 11200 50  0000 C CNN
 F 1 "1uf" V 2638 11200 50  0000 C CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 2500 11200 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 2500 11200 50  0001 C CNN
 F 3 "~" H 2500 11200 50  0001 C CNN
 	1    2500 11200
 	-1   0    0    1   
@@ -2394,7 +2394,7 @@ U 1 1 5F00E16D
 P 2100 10100
 F 0 "Y1" V 2054 10244 50  0000 L CNN
 F 1 "16MHZ" V 2145 10244 50  0000 L CNN
-F 2 "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm" H 2100 10100 50  0001 C CNN
+F 2 "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering" H 2100 10100 50  0001 C CNN
 F 3 "~" H 2100 10100 50  0001 C CNN
 	1    2100 10100
 	0    1    1    0   
@@ -2409,7 +2409,7 @@ U 1 1 5F04FE58
 P 1700 9850
 F 0 "C2" V 1471 9850 50  0000 C CNN
 F 1 "22pF" V 1562 9850 50  0000 C CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 1700 9850 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 1700 9850 50  0001 C CNN
 F 3 "~" H 1700 9850 50  0001 C CNN
 	1    1700 9850
 	0    1    1    0   
@@ -2420,7 +2420,7 @@ U 1 1 5F051795
 P 1700 10300
 F 0 "C3" V 1471 10300 50  0000 C CNN
 F 1 "22pF" V 1562 10300 50  0000 C CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 1700 10300 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 1700 10300 50  0001 C CNN
 F 3 "~" H 1700 10300 50  0001 C CNN
 	1    1700 10300
 	0    1    1    0   
@@ -2584,12 +2584,12 @@ col7
 Text GLabel 4350 10100 2    50   Input ~ 0
 row0
 $Comp
-L Type-C:HRO-TYPE-C-31-M-12 USB1
+L Proyecto-A-rescue:HRO-TYPE-C-31-M-12-Type-C USB1
 U 1 1 5F06AC88
 P 5950 9100
 F 0 "USB1" H 5783 9897 60  0000 C CNN
 F 1 "HRO-TYPE-C-31-M-12" H 5783 9791 60  0000 C CNN
-F 2 "Type-C:HRO-TYPE-C-31-M-12-jlc" H 5950 9100 60  0001 C CNN
+F 2 "Type-C:HRO-TYPE-C-31-M-12-HandSoldering" H 5950 9100 60  0001 C CNN
 F 3 "" H 5950 9100 60  0001 C CNN
 	1    5950 9100
 	1    0    0    -1  
@@ -3117,7 +3117,7 @@ Wire Wire Line
 	16200 3400 16200 1400
 Connection ~ 14350 3400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED F2
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid F2
 U 1 1 00000351
 P 6400 3000
 F 0 "F2" H 6400 3233 60  0000 C CNN
@@ -3231,7 +3231,7 @@ Wire Wire Line
 Wire Wire Line
 	15250 850  15800 850 
 $Comp
-L MX_Alps_Hybrid:MX-NoLED BACKSPACE1
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid BACKSPACE1
 U 1 1 5F10BB72
 P 15950 900
 F 0 "BACKSPACE1" H 16250 1150 60  0000 R CNN
@@ -3242,7 +3242,7 @@ F 3 "" H 15325 875 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED SPLIT_BKS1
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid SPLIT_BKS1
 U 1 1 5F21A7FF
 P 16250 950
 F 0 "SPLIT_BKS1" H 16250 1183 60  0000 C CNN
@@ -3253,7 +3253,7 @@ F 3 "" H 16250 950 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED RSHIFT2
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid RSHIFT2
 U 1 1 5F1593E1
 P 14050 3600
 F 0 "RSHIFT2" H 14250 3400 60  0000 R CNN
@@ -3270,7 +3270,7 @@ Wire Wire Line
 	15800 950  15800 1950
 Connection ~ 15800 950 
 $Comp
-L MX_Alps_Hybrid:MX-NoLED K_14
+L Proyecto-A-rescue:MX-NoLED-MX_Alps_Hybrid K_14
 U 1 1 00000141
 P 15400 1000
 F 0 "K_14" H 15400 1233 60  0000 C CNN
@@ -3315,7 +3315,7 @@ U 1 1 5F07C850
 P 14350 10750
 F 0 "C9" H 14258 10704 50  0000 R CNN
 F 1 "0.1 uf" H 14258 10795 50  0000 R CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 14350 10750 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 14350 10750 50  0001 C CNN
 F 3 "~" H 14350 10750 50  0001 C CNN
 	1    14350 10750
 	-1   0    0    1   
@@ -3326,7 +3326,7 @@ U 1 1 5F114E11
 P 14750 10750
 F 0 "C11" H 14658 10704 50  0000 R CNN
 F 1 "0.1 uf" H 14658 10795 50  0000 R CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 14750 10750 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 14750 10750 50  0001 C CNN
 F 3 "~" H 14750 10750 50  0001 C CNN
 	1    14750 10750
 	-1   0    0    1   
@@ -3337,7 +3337,7 @@ U 1 1 5F14586F
 P 15150 10750
 F 0 "C13" H 15058 10704 50  0000 R CNN
 F 1 "0.1 uf" H 15058 10795 50  0000 R CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 15150 10750 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 15150 10750 50  0001 C CNN
 F 3 "~" H 15150 10750 50  0001 C CNN
 	1    15150 10750
 	-1   0    0    1   
@@ -3348,7 +3348,7 @@ U 1 1 5F176101
 P 15550 10750
 F 0 "C15" H 15458 10704 50  0000 R CNN
 F 1 "0.1 uf" H 15458 10795 50  0000 R CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 15550 10750 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 15550 10750 50  0001 C CNN
 F 3 "~" H 15550 10750 50  0001 C CNN
 	1    15550 10750
 	-1   0    0    1   
@@ -3359,7 +3359,7 @@ U 1 1 5F1A688A
 P 15950 10750
 F 0 "C17" H 15858 10704 50  0000 R CNN
 F 1 "0.1 uf" H 15858 10795 50  0000 R CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 15950 10750 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 15950 10750 50  0001 C CNN
 F 3 "~" H 15950 10750 50  0001 C CNN
 	1    15950 10750
 	-1   0    0    1   
@@ -3370,7 +3370,7 @@ U 1 1 5F1D7492
 P 16350 10750
 F 0 "C19" H 16258 10704 50  0000 R CNN
 F 1 "0.1 uf" H 16258 10795 50  0000 R CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 16350 10750 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 16350 10750 50  0001 C CNN
 F 3 "~" H 16350 10750 50  0001 C CNN
 	1    16350 10750
 	-1   0    0    1   
@@ -3381,7 +3381,7 @@ U 1 1 5F269372
 P 14350 11150
 F 0 "C10" H 14258 11104 50  0000 R CNN
 F 1 "0.1 uf" H 14258 11195 50  0000 R CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 14350 11150 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 14350 11150 50  0001 C CNN
 F 3 "~" H 14350 11150 50  0001 C CNN
 	1    14350 11150
 	-1   0    0    1   
@@ -3392,7 +3392,7 @@ U 1 1 5F299E3E
 P 14750 11150
 F 0 "C12" H 14658 11104 50  0000 R CNN
 F 1 "0.1 uf" H 14658 11195 50  0000 R CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 14750 11150 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 14750 11150 50  0001 C CNN
 F 3 "~" H 14750 11150 50  0001 C CNN
 	1    14750 11150
 	-1   0    0    1   
@@ -3403,7 +3403,7 @@ U 1 1 5F2FC32C
 P 15150 11150
 F 0 "C14" H 15058 11104 50  0000 R CNN
 F 1 "0.1 uf" H 15058 11195 50  0000 R CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 15150 11150 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 15150 11150 50  0001 C CNN
 F 3 "~" H 15150 11150 50  0001 C CNN
 	1    15150 11150
 	-1   0    0    1   
@@ -3414,7 +3414,7 @@ U 1 1 5F32CDA5
 P 15550 11150
 F 0 "C16" H 15458 11104 50  0000 R CNN
 F 1 "0.1 uf" H 15458 11195 50  0000 R CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 15550 11150 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 15550 11150 50  0001 C CNN
 F 3 "~" H 15550 11150 50  0001 C CNN
 	1    15550 11150
 	-1   0    0    1   
@@ -3425,7 +3425,7 @@ U 1 1 5F35D68E
 P 15950 11150
 F 0 "C18" H 15858 11104 50  0000 R CNN
 F 1 "0.1 uf" H 15858 11195 50  0000 R CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 15950 11150 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 15950 11150 50  0001 C CNN
 F 3 "~" H 15950 11150 50  0001 C CNN
 	1    15950 11150
 	-1   0    0    1   
@@ -3436,7 +3436,7 @@ U 1 1 5F38E0E6
 P 16350 11150
 F 0 "C20" H 16258 11104 50  0000 R CNN
 F 1 "0.1 uf" H 16258 11195 50  0000 R CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 16350 11150 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 16350 11150 50  0001 C CNN
 F 3 "~" H 16350 11150 50  0001 C CNN
 	1    16350 11150
 	-1   0    0    1   
@@ -3447,7 +3447,7 @@ U 1 1 5F3F047E
 P 16750 11150
 F 0 "C21" H 16658 11104 50  0000 R CNN
 F 1 "0.1 uf" H 16658 11195 50  0000 R CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 16750 11150 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 16750 11150 50  0001 C CNN
 F 3 "~" H 16750 11150 50  0001 C CNN
 	1    16750 11150
 	-1   0    0    1   
@@ -3573,4 +3573,15 @@ Wire Wire Line
 	13250 7750 13400 7750
 Wire Wire Line
 	13600 7750 14000 7750
+$Comp
+L Proyecto_A_300:LOGO #G1
+U 1 1 5F294A8F
+P 10750 10950
+F 0 "#G1" H 10750 10724 60  0001 C CNN
+F 1 "LOGO" H 10750 11176 60  0001 C CNN
+F 2 "" H 10750 10950 50  0001 C CNN
+F 3 "" H 10750 10950 50  0001 C CNN
+	1    10750 10950
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
